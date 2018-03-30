@@ -1,0 +1,11 @@
+https://kafka.apache.org/quickstart 
+http://kafka.apache.org/documentation.html#introduction
+https://docs.confluent.io/current/kafka/operations.html
+https://github.com/vsouza/go-kafka-example
+https://engineering.randrr.com/getting-started-with-kafka-using-go-5a89f8555009
+https://kafka.apache.org/documentation/#producerapi
+https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go
+https://github.com/segmentio/kafka-go
+https://www.confluent.io/blog/messaging-single-source-truth/
+https://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/
+https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
